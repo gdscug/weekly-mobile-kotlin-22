@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mooflix</string>
+    <string name="title">Title</string>
+    <string name="poster">Poster of Movie</string>
+    <string name="overview_title">Overview</string>
+    <string name="overview">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Feugiat vivamus at augue eget arcu dictum varius duis.</string>
+    <string name="vote_average">8.8</string>
+    <string name="release_date_title">Release Date</string>
+    <string name="release_date">20–08–2021</string>
+    <string name="home_title">Movie</string>
+    <string name="detail_title">Detail</string>
+
+    <string name="new_username">New Username</string>
+    <string name="email">Email</string>
+    <string name="new_email">New Email</string>
+    <string name="password">Password</string>
+    <string name="new_password">New Password</string>
+    <string name="login_text">Already Have an Account?<font fgcolor="#2196F3"> Login</font></string>
+    <string name="register_text">Don\'t Have an Account?<font fgcolor="#2196F3"> Register </font></string>
+    <string name="register_success">Account Created Successfully</string>
+    <string name="login_success">Login Successfully</string>
+    <string name="confirm_logout">Confirm Exit</string>
+    <string name="logout_message">Are you sure want to exit the application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="cant_empty">This field cannot be empty</string>
+    <string name="email_invalid">Email tidak sesuai</string>
+    <string name="pass_invalid">Password tidak sesuai</string>
+</resources>
