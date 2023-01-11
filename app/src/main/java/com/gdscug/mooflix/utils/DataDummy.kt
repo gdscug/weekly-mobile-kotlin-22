@@ -1,6 +1,6 @@
 package com.gdscug.mooflix.utils
 
-import com.gdscug.mooflix.data.MoviesEntity
+import com.gdscug.mooflix.data.local.MoviesEntity
 
 object DataDummy {
     fun generateDataDummy() : List<MoviesEntity>{
