@@ -7,3 +7,4 @@
 5. [Retrofit](https://square.github.io/retrofit)
 6. [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 7. [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+8. [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
