@@ -1,4 +1,12 @@
 # Mooflix
+Mooflix is a project on Weekly Mobile 2022/2023, an application to display popular movies based on TMDB (The Movie Database)
+
+## Slide
+[Slide Weekly Mobile](https://drive.google.com/drive/folders/1iq52Hu7WzQDdqOTUqkW2W6NgQSNrCmCz?usp=sharing)
+
+## Video
+[Video Weekly Mobile](https://www.youtube.com/watch?v=J7DBahUOdhs&list=PL3VpLbLyLE55qHsWncPLVhk5nNnUcwro3)
+
 ## Reference
 1. [View Binding](https://developer.android.com/topic/libraries/view-binding)
 2. [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
